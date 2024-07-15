@@ -408,6 +408,9 @@ form textarea{
 	#menu-icon{
 		display: block;
 	}
+	.home-text{
+		margin-top: 100px;
+	}
 	.navbar{
 		position: absolute;
 		top: -600px;
